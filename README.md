@@ -1,5 +1,9 @@
 AI-Powered Credit Risk & Delinquency Management System
 
+Developed an AI-powered Credit Risk & Delinquency Management System, leveraging Gradient Boosting and SHAP for transparent risk scoring. Designed a dynamic, risk-based collections workflow projected to reduce delinquency by 15–20% and optimize collection costs.
+
+
+
 
 1. Data Diagnostics & Feature Engineering
 I conducted a deep Exploratory Data Analysis (EDA) to ensure data integrity and identify high-impact risk factors.
